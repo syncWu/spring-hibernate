@@ -1,0 +1,59 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="samples-sprhib:war exploded">
+    <output-path>$PROJECT_DIR$/target/samples-sprhib-1.4.1-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="samples-sprhib" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.1-SNAPSHOT/shiro-core-1.4.1-20170720.230108-1.jar" output-file-name="shiro-core-1.4.1-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-lang/1.4.1-SNAPSHOT/shiro-lang-1.4.1-20170720.230217-1.jar" output-file-name="shiro-lang-1.4.1-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-cache/1.4.1-SNAPSHOT/shiro-cache-1.4.1-20170720.230105-1.jar" output-file-name="shiro-cache-1.4.1-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-crypto-hash/1.4.1-SNAPSHOT/shiro-crypto-hash-1.4.1-20170720.230454-1.jar" output-file-name="shiro-crypto-hash-1.4.1-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-crypto-core/1.4.1-SNAPSHOT/shiro-crypto-core-1.4.1-20170720.230240-1.jar" output-file-name="shiro-crypto-core-1.4.1-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-crypto-cipher/1.4.1-SNAPSHOT/shiro-crypto-cipher-1.4.1-20170720.230116-1.jar" output-file-name="shiro-crypto-cipher-1.4.1-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-config-core/1.4.1-SNAPSHOT/shiro-config-core-1.4.1-20170720.230403-1.jar" output-file-name="shiro-config-core-1.4.1-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-config-ogdl/1.4.1-SNAPSHOT/shiro-config-ogdl-1.4.1-20170720.230410-1.jar" output-file-name="shiro-config-ogdl-1.4.1-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.9.3" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.2" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-event/1.4.1-SNAPSHOT/shiro-event-1.4.1-20170720.230100-1.jar" output-file-name="shiro-event-1.4.1-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-spring/1.4.1-SNAPSHOT/shiro-spring-1.4.1-20170720.230228-1.jar" output-file-name="shiro-spring-1.4.1-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.4.1-SNAPSHOT/shiro-web-1.4.1-20170720.230253-1.jar" output-file-name="shiro-web-1.4.1-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.7.21" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.21" />
+          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.21" />
+          <element id="library" level="project" name="Maven: org.hibernate:hibernate-core:4.2.21.Final" />
+          <element id="library" level="project" name="Maven: antlr:antlr:2.7.7" />
+          <element id="library" level="project" name="Maven: org.jboss.logging:jboss-logging:3.1.0.GA" />
+          <element id="library" level="project" name="Maven: dom4j:dom4j:1.6.1" />
+          <element id="library" level="project" name="Maven: org.javassist:javassist:3.18.1-GA" />
+          <element id="library" level="project" name="Maven: org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec:1.0.1.Final" />
+          <element id="library" level="project" name="Maven: org.hibernate.javax.persistence:hibernate-jpa-2.0-api:1.0.1.Final" />
+          <element id="library" level="project" name="Maven: org.hibernate.common:hibernate-commons-annotations:4.0.2.Final" />
+          <element id="library" level="project" name="Maven: org.apache.geronimo.specs:geronimo-jta_1.1_spec:1.1.1" />
+          <element id="library" level="project" name="Maven: hsqldb:hsqldb:1.8.0.7" />
+          <element id="library" level="project" name="Maven: net.sf.ehcache:ehcache-core:2.6.11" />
+          <element id="library" level="project" name="Maven: org.hibernate:hibernate-ehcache:4.2.21.Final" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:3.2.17.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:3.2.17.RELEASE" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:3.2.17.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:3.2.17.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:3.2.17.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-orm:3.2.17.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:3.2.17.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:3.2.17.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:3.2.17.RELEASE" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.10" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/samples-sprhib-1.4.1-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="samples-sprhib/web/Web" />
+    </root>
+  </artifact>
+</component>

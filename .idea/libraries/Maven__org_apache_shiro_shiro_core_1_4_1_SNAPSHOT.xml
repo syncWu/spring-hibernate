@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.shiro:shiro-core:1.4.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.1-SNAPSHOT/shiro-core-1.4.1-20170720.230108-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.1-SNAPSHOT/shiro-core-1.4.1-20170720.230108-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.1-SNAPSHOT/shiro-core-1.4.1-20170720.230108-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
